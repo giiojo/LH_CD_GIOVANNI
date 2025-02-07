@@ -15,17 +15,19 @@ Um projeto de previsão de preços utilizando o metodo de regressão linear. O p
 
  Certifique-se também se sua instalação do Python incluiu o pip pois é necessário para baixar dependências e rodar esse projeto.
 
+
+ - Lembre de extrair o arquivo LH_CD_GIOVANNI, de forma que só tenha uma pasta com os conteúdos dentro para melhor manuseio
  
  - Dentro do VSCode, abra a pasta LH_CD_GIOVANNI, assim você pode acessar os conteúdos dela
  
- - Abra o Terminal e Insira os seguintes commandos:
+ - Abra o terminal e insira os seguintes commandos:
      > python -m venv .libs
      > .\.libs\Scripts\activate
  - Isso vai criar o que chamamos de ambiente virtual no seu VSCode
  
- - Certifique-se que o Terminal está aberto no local: 'seu_usuário'/desktop/lh_cd_giovanni
+ - Certifique-se que o terminal está aberto no local: 'seu_usuário'/desktop/lh_cd_giovanni
  
- - Use o Comando: pip install -r requirements.txt (isso vai instalar as dependências necessárias)
+ - Use o comando: pip install -r requirements.txt (isso vai instalar as dependências necessárias)
 
  - Por fim, execute os códigos dos Jupyter Notebooks localizados na pasta notebooks. Se certifique de aceitar a instalação de todas as extensões solicitadas pelo VSCode.
 ```
